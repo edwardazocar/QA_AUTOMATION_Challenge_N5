@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27ca249c-eefe-43cd-acbd-4eeb886c8e1b" name="Changes" comment="" />
+    <list default="true" id="27ca249c-eefe-43cd-acbd-4eeb886c8e1b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2b5d88fb-5555-4f25-a28f-294d1c69f7b8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2d3a6ae7-b0d2-4fc6-bf16-0c9a5e07eac4-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/551e5455-4e13-44c1-b964-8d60f519cfe6-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6555b5a7-d81d-4f0a-bb9d-4ac85b04bec9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e447e259-9c2f-4eee-b80e-9ac5ac2a4520-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fab8ddf3-9e55-4f7c-a49a-31ef3f610bf6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportes/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/reportes/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/netflix/PaginaHomeNetflix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/netflix/PaginaHomeNetflix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/busqueda/DatosPaginaNetflix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/busqueda/DatosPaginaNetflix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui/netflix/PaginaHomeNetflix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui/netflix/PaginaHomeNetflix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/busqueda/DatosPaginaNetflix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/busqueda/DatosPaginaNetflix.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +61,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2689655&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.quicklists&quot;
   }
 }</component>
   <component name="RecentsManager">
