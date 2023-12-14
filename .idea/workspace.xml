@@ -5,19 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27ca249c-eefe-43cd-acbd-4eeb886c8e1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/0c317be0-6123-49f0-ab19-c193bc82f52a-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/148676ce-4536-437f-935f-9de809d4647f-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2478e1b9-f438-4a66-98f4-3b96d043bb75-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/32045f13-0923-426e-95ad-94e7ec31f9f3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/327ceb10-0f12-4737-ad4e-7adb13ce1531-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4cf80d9e-c545-4176-bfcd-1534f6d09dc0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/54058261-1cef-46b9-bc2a-b5efad5ef1ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e8a15f2-02f0-488b-9327-95b5def02c1b-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76a86e42-f981-47d7-b80e-df216d756311-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/794af013-e2d0-4fc2-96bd-77612f855a9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a4aceba-56e7-46c1-a578-c4ab77633915-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c63ab60-154f-4db7-b74f-f8e222de748e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ec88f64-0bb1-4416-af9f-fed6bd7f1269-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/917e2d1c-c837-4633-9dd4-7434a3cd6ee0-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/93c4e076-43aa-4fa9-937c-a0f595fbc97c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9572b53e-5410-4104-9be4-2469557d7285-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9dfd7be2-a133-426e-a146-9e3ac073a726-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1f9ff91-0dcf-4da2-818d-f84e3fffe6d8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bef54a50-2534-4f18-9e52-43e937faacea-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cf5ca669-93b8-477a-9ef2-b2e074c2953a-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d59e5ac4-a3eb-4fb0-9d2f-18aa572e91a6-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e4d6f9c0-db22-45ba-b77c-556e953b193d-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2b5d88fb-5555-4f25-a28f-294d1c69f7b8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2d3a6ae7-b0d2-4fc6-bf16-0c9a5e07eac4-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/551e5455-4e13-44c1-b964-8d60f519cfe6-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6555b5a7-d81d-4f0a-bb9d-4ac85b04bec9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e447e259-9c2f-4eee-b80e-9ac5ac2a4520-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fab8ddf3-9e55-4f7c-a49a-31ef3f610bf6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reportes/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/reportes/cucumber-reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/netflix/PaginaHomeNetflix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/netflix/PaginaHomeNetflix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/busqueda/DatosPaginaNetflix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/busqueda/DatosPaginaNetflix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ui/netflix/PaginaHomeNetflix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui/netflix/PaginaHomeNetflix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/busqueda/DatosPaginaNetflix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/busqueda/DatosPaginaNetflix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/busqueda/SeleccionarResultadoDeLaBusqueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/busqueda/SeleccionarResultadoDeLaBusqueda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/google/PaginaResultadoBusqueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/google/PaginaResultadoBusqueda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +60,16 @@
     <option name="jreName" value="1.8 (2)" />
   </component>
   <component name="ProjectId" id="2H6qA1v0H0RLlazuwVEEeg8kNhm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Edward Azocar/Desktop/respaldo/QA_AUTOMATION_FATHER&quot;,
@@ -169,6 +185,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QA_AUTOMATION_Challenge_N5$C__Users_Edward_Azocar_IdeaProjects_QA_AUTOMATION_Challenge_N5_testng_xml.ic" NAME="C:\Users\Edward Azocar\IdeaProjects\QA_AUTOMATION_Challenge_N5\testng.xml Coverage Results" MODIFIED="1667704835243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
